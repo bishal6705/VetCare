@@ -153,7 +153,58 @@ ul li{
     top: 93px;
   }
 
-  
+.part3{
+    height: 798px;
+    width: 100%;
+    position: relative;
+}
+.work h1{
+    position: absolute;
+    font-size: 50px;
+    top: 229px;
+    left: 144px;
+    font-weight: 400;
+
+}
+.work p{
+    position: absolute;
+    font-size: 29px;
+    font-weight: 400;
+    top: 373px;
+    left: 144px;
+}
+.work .survice{
+    position: absolute;
+    height: 67px;
+    width: 178px;
+    padding: 20px 30px;
+    background-color: #FFC400;
+    font-size: 20px;
+    color: white;
+    top: 505px;
+    left: 144px;
+    border-radius: 5%;
+}
+.man{
+    position: relative;
+}
+.man .color{
+    position: absolute;
+    height: 210px;
+    width: 247px;
+    z-index: 1;
+    background-color: #FFCB00;
+    top: 445px;
+    left: 765px;
+}
+.man .man2{
+    position: absolute;
+    height: 478px;
+    width: 510px;
+    top: 141px;
+    left: 820px;
+}
+
 
     
 
